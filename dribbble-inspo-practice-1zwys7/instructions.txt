@@ -1,0 +1,13 @@
+Becoming a good designer and/or developer requires practice, but also seeking inspiration from others.
+
+dribbble.com is a site where designers can share their work with the world. It's fun to browse sometimes for ideas.
+
+I've picked a project at random so we can get in more practice in thinking about how to turn a design into an actual website.
+
+Open the link below in a new window so you can reference it while you code:
+
+https://dribbble.com/shots/12030408-Posy-Landing/attachments/3660024?mode=media
+
+We won't use this designer's work directly though. Let's use a free image from unsplash.com in place of the bicycle-rider illustration:
+
+https://source.unsplash.com/xI5Fw7y7dNs/600x400
